@@ -1,5 +1,5 @@
 ## Python Fundamental Guideline
-**Python_Fundamental.ipynb** consist of these titles:<br>
+<p style="color:green; font-size:bold;">**Python_Fundamental.ipynb**consist of these titles:</p> 
 This as a reference to reinforce your understanding of these concepts.
 <ol>
   <li>Variable</li>

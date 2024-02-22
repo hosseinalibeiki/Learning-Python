@@ -1,5 +1,6 @@
 ## Python Fundamental Guideline
 **Python_Fundamental.ipynb** consist of these titles:<br>
+This as a reference to reinforce your understanding of these concepts.
 <ol>
   <li>Variable</li>
   <li>Comments</li>
